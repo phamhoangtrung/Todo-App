@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #52b1b1;
+    font-style: italic;
+}
+
+mat-toolbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    margin-left: 10px;
+}
